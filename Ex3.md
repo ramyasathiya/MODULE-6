@@ -6,17 +6,29 @@ To write a C++ program to modify (replace) an element from a circular linked lis
 
  ## Algorithm:
 Start the program.
+
 Define a node class with value and next pointer.
+
 Create a function create(int dat) to insert nodes into the circular linked list.
+
 Create a function display() to print all elements of the list.
+
 Create a function replace(int a, int b) to:
+
 Traverse the circular list.
+
 Find the node with value a and replace it with b.
+
 In the main() function:
+
 Read 5 integers and create the circular linked list.
+
 Display the list.
+
 Read the element to be replaced and the new element.
+
 Call replace() and display the modified list.
+
 Stop the program.
  ## Program:
  ```
