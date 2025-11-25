@@ -7,13 +7,21 @@ Write a CPP program to DELETE an element from the FRONT in a Circularly Singly L
 ## Algorithm:
 
 Start the program.
+
 Create a class Sum that contains overloaded functions:
+
 int add(int a, int b) to return sum of two integers.
+
 int add(int a, int b, int c) to return sum of three integers.
+
 In the main() function:
+
 Read integers from the user.
+
 Call the overloaded functions accordingly.
+
 Display results.
+
 Stop the program.
 
 ## Program:
